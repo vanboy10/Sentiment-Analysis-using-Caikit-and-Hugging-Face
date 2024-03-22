@@ -7,21 +7,22 @@
 
 ## Examples
 
- *** 1. Data Processing📊
+ ## 1. Data Processing📊
 
-*** 2. Feature Extraction📋
+## 2. Feature Extraction📋
 
-*** 3.  Model Training✏️
+## 3.  Model Training✏️
 
-*** 4. Model Evaluation🏷️
-*** 5. Model Use 💢
+## 4. Model Evaluation🏷️
+
+## 5. Model Use 💢
 
 
 
-- Python
-- TensorFlow
-- Hugging Face Transformers
-- Flask
-- HTML/CSS/JavaScript
+## - Python
+## - TensorFlow
+## - Hugging Face Transformers
+## - Flask
+## - HTML/CSS/JavaScript
 
-Thank you for contributing to  Text Sentiment Analysis using Caikit and Hugging Face PExample! 🌟
+# Thank you for contributing to  Text Sentiment Analysis using Caikit and Hugging Face PExample! 🌟
